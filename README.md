@@ -3,7 +3,7 @@ Repositório destinado ao teste de programação da Rota das Oficinas.
 
 TESTE DE PROGRAMAÇÃO - FELIPE LIMA SANTOS
 
-Desenvolvi uma aplicação interativa utilizando JavaScript ES6 e React, onde o usuário pode transitar livremente entrar as atividades solicitadas e preencher os campos de acordo com as intruções.
+Desenvolvi uma aplicação interativa utilizando JavaScript ES6 e React, onde o usuário pode transitar livremente entrar as atividades solicitadas e preencher os campos de acordo com as instruções.
 
 TASK 1 - CONVERSOR DE NÚMEROS ROMANOS
 
