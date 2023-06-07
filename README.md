@@ -24,3 +24,8 @@ O projeto foi feito em Vite e utilizando o NPM (Node Package Manager).
 Ao clonar o repositório, será necessário instalar as dependências com o comando 'npm install'.
 
 Logo após, rodar o comando 'npm run dev' para rodar a versão de desenvolvimento no servidor local.
+
+PROJETO EM PRODUÇÃO!
+
+Para visualizar o projeto rodando, acessar o link: teste-felipe-lima-santos.vercel.app
+
